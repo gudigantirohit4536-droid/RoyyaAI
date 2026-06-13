@@ -1,0 +1,137 @@
+WATER QUALITY MANAGEMENT FOR VANNAMEI SHRIMP (Penaeus vannamei)
+Source: FAO Aquaculture, Wikipedia, Expert Guidelines
+
+=== SAFE RANGES FOR KEY PARAMETERS ===
+
+DISSOLVED OXYGEN (DO):
+- Safe range: 4.0 - 8.0 mg/L
+- Optimal: 5.0 - 7.0 mg/L
+- Critical low: below 3.0 mg/L (shrimp will die within hours)
+- Warning level: 3.0 - 4.0 mg/L (immediate action needed)
+- DO is highest in early morning before sunrise (check at 5-6 AM)
+- DO drops at night due to respiration, rises during day due to photosynthesis
+
+TEMPERATURE:
+- Safe range: 22°C - 32°C
+- Optimal growth: 25°C - 30°C
+- Critical: below 20°C or above 35°C
+- Growth stops below 15°C
+- White Spot Disease risk increases when temperature drops below 25°C or fluctuates rapidly
+
+pH:
+- Safe range: 7.5 - 8.5
+- Optimal: 7.8 - 8.3
+- Morning pH is lowest, afternoon pH is highest
+- pH fluctuation >0.5 within 24 hours is stressful
+- Low pH (<7.0) causes acid toxicity
+- High pH (>9.0) increases ammonia toxicity
+
+SALINITY:
+- Vannamei can tolerate 0 - 40 ppt
+- Optimal: 10 - 25 ppt
+- Freshwater/low salinity farming possible at 2-10 ppt with adaptation
+- Sudden salinity changes >5 ppt/day cause stress
+- Indian inland farms typically use 5-15 ppt
+
+ALKALINITY:
+- Safe range: 80 - 150 mg/L as CaCO3
+- Optimal: 100 - 150 mg/L
+- Low alkalinity (<80 mg/L): pH unstable, crashes possible
+- Add lime (CaCO3 or Ca(OH)2) to raise alkalinity
+- Dose: 10-20 kg/acre to raise alkalinity by 10-15 mg/L
+
+AMMONIA (Total Ammonia Nitrogen - TAN):
+- Safe: below 0.5 mg/L
+- Warning: 0.5 - 1.0 mg/L
+- Toxic: above 1.0 mg/L
+- Un-ionized ammonia (NH3) is the toxic form, higher at high pH and temperature
+- Sources: feed excess, dead organic matter, shrimp excretion
+- Control: reduce feeding, water exchange, probiotics
+
+NITRITE (NO2):
+- Safe: below 0.1 mg/L
+- Warning: 0.1 - 0.5 mg/L
+- Toxic: above 0.5 mg/L
+- Interferes with oxygen transport in shrimp blood
+- Control: water exchange, probiotics, salt addition (chloride competes with nitrite)
+
+SECCHI DEPTH (Water Transparency):
+- Optimal: 25 - 40 cm
+- Too clear (>50 cm): insufficient phytoplankton, DO may drop at night
+- Too turbid (<20 cm): excessive algae bloom, DO crash risk
+- Ideal water color: green or light brown (indicating healthy phytoplankton)
+
+=== DAILY MONITORING SCHEDULE ===
+
+Early Morning (5:00 - 6:00 AM):
+- Check DO (critical - lowest point of day)
+- Check temperature
+- Observe shrimp behavior at pond edges
+
+Morning (7:00 - 8:00 AM):
+- Check pH
+- Observe water color and transparency (Secchi depth)
+- Check feeding tray response
+
+Afternoon (2:00 - 4:00 PM):
+- Check DO (usually highest)
+- Check pH (usually highest)
+- Check temperature
+
+Evening (6:00 PM):
+- Feed tray check
+- Observe shrimp surface activity
+
+=== EMERGENCY ACTIONS ===
+
+LOW DO (below 4.0 mg/L):
+1. Turn on ALL aerators immediately
+2. Stop feeding immediately
+3. If available, add emergency aeration (paddlewheels, blowers)
+4. Optionally add hydrogen peroxide (H2O2): 2-5 ml per cubic meter
+5. Monitor every 30 minutes until DO stabilizes above 4.0 mg/L
+6. Do NOT do water exchange during DO crisis (stress increases oxygen demand)
+
+HIGH AMMONIA:
+1. Reduce or stop feeding for 1-2 days
+2. Add probiotics (Bacillus species)
+3. Partial water exchange 20-30%
+4. Add organic carbon source if biofloc system
+
+pH CRASH:
+1. Add agricultural lime (CaO) or dolomite
+2. 10-20 kg/acre raises pH by 0.2-0.3 units
+3. Apply in the morning when pH is naturally rising
+
+pH HIGH (>9.0):
+1. Partial water exchange
+2. Reduce phytoplankton by reducing fertilizer
+3. Use alum (aluminum sulfate) cautiously
+
+=== WATER EXCHANGE GUIDELINES ===
+
+Intensive farming:
+- Early stage (DOC 1-30): 0-5% daily, minimal exchange
+- Mid stage (DOC 31-60): 5-15% daily as needed
+- Late stage (DOC 61+): 10-30% daily based on water quality
+
+Never exchange >30% at once — causes stress
+Always treat incoming water with chlorine (20-30 ppm) and neutralize before adding
+
+=== SEASONAL CONSIDERATIONS (ANDHRA PRADESH/INDIA) ===
+
+Summer (March-June):
+- High temperature risk, ensure adequate aeration
+- Water evaporation increases salinity
+- DO stress more likely due to high temperature
+
+Monsoon (July-September):
+- Rain dilutes salinity rapidly — monitor daily
+- Risk of pH crash due to acidic rainwater
+- Disease outbreak risk higher
+- Ensure pond bunds are strong
+
+Winter (November-February):
+- Temperature drops — growth slows
+- White Spot Disease risk increases below 25°C
+- Increase biosecurity during cold spells

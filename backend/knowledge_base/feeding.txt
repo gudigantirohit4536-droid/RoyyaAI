@@ -1,0 +1,136 @@
+FEEDING MANAGEMENT FOR VANNAMEI SHRIMP (Penaeus vannamei)
+Source: FAO Aquaculture, Expert Aquaculture Guidelines
+
+=== PROTEIN REQUIREMENTS ===
+
+Vannamei requires lower protein than other penaeid shrimp:
+- Starter feeds (DOC 1-15): 40% protein
+- Grower feeds (DOC 16-45): 35% protein
+- Finisher feeds (DOC 46-harvest): 30-32% protein
+This makes it more economical than tiger prawn farming.
+
+=== FEEDING FREQUENCY BY DOC ===
+
+DOC 1-10 (Post-stocking):
+- Feed 4-5 times per day
+- Small quantities — shrimp are tiny (0.01-0.05g)
+- Use fine powdered or crumble starter feed
+- No feed trays needed — broadcast across pond
+
+DOC 11-30 (Early grow-out):
+- Feed 4 times per day (6 AM, 10 AM, 2 PM, 6 PM)
+- Begin using feed trays (anco trays) from DOC 15
+- Adjust quantity based on tray response
+
+DOC 31-60 (Mid grow-out):
+- Feed 3-4 times per day
+- Feed trays become primary adjustment method
+- Increase feed 10% if trays are empty within 2 hours
+
+DOC 61-harvest (Late grow-out):
+- Feed 3 times per day (morning, afternoon, evening)
+- Monitor ABW (average body weight) every 7-10 days
+- Adjust feed based on biomass calculation
+
+=== FEED QUANTITY CALCULATION ===
+
+Formula: Daily Feed = Estimated Biomass × Feeding Rate %
+
+Estimated Biomass = (Initial PL count × Survival Rate %) × Current ABW (kg)
+
+Feeding Rate by DOC:
+- DOC 1-15: 10-15% of body weight per day
+- DOC 16-30: 7-10% per day
+- DOC 31-45: 5-7% per day
+- DOC 46-60: 3-5% per day
+- DOC 61+: 2-3% per day
+
+Example (1 acre pond, 100,000 PLs stocked, DOC 45, ABW = 8g, 80% survival):
+- Surviving shrimp = 100,000 × 80% = 80,000
+- Biomass = 80,000 × 8g = 640 kg
+- Daily feed = 640 × 5% = 32 kg/day
+- Per feeding = 32 ÷ 4 = 8 kg per feeding
+
+=== FEED TRAY (ANCO) MANAGEMENT ===
+
+Setup:
+- Use 4-6 feed trays per acre
+- Place at 1-2 meters depth, in open water away from aerators
+- Check trays 2 hours after each feeding
+
+Interpretation:
+- Empty tray in <1.5 hours: INCREASE feed by 10-15%
+- Empty tray in 1.5-2 hours: MAINTAIN current feed quantity (ideal)
+- Feed remaining in tray: DECREASE feed by 10-20%
+- Feed tray ignored completely: STOP feeding, check health/water quality
+
+Feed tray quantity:
+- Each tray = 1% of daily feed amount
+- Example: Daily feed = 30 kg → 300g per tray (6 trays × 300g each = 1.8 kg total in trays)
+
+=== FEED CONVERSION RATIO (FCR) ===
+
+Definition: FCR = Total Feed Used ÷ Total Harvest Weight
+
+Target FCR:
+- Excellent: below 1.3
+- Good: 1.3 - 1.5
+- Average: 1.5 - 1.8
+- Poor: above 1.8 (investigate feeding waste, disease, poor seed quality)
+
+Factors that increase FCR (make it worse):
+- Overfeeding (uneaten feed)
+- Poor seed quality
+- Disease causing reduced appetite
+- Low DO (shrimp eat less)
+- High stocking density without adequate aeration
+
+=== SURVIVAL RATE BENCHMARKS ===
+
+Excellent: >85%
+Good: 75-85%
+Average: 65-75%
+Poor: below 65% (investigate disease, water quality, seed quality)
+
+=== POPULAR FEED BRANDS IN INDIA ===
+
+1. CP (Charoen Pokphand) — most popular, consistent quality
+   - CP 35, CP Feed series
+2. Growel — Indian brand, widely available in AP
+3. Avanti — premium brand
+4. Higashimaru — Japanese collaboration brand
+5. RBI (Rajiv Brothers India)
+
+All feeds should have: HACCP certification, fresh manufacturing date (use within 3 months)
+
+=== FEEDING DO'S AND DON'TS ===
+
+DO:
+- Store feed in dry, cool place (avoid moisture)
+- Check feed expiry date — use within 3 months of manufacture
+- Reduce feed by 50% if DO drops below 4 mg/L
+- Reduce feed during disease outbreak or stress
+- Feed at consistent times every day
+
+DON'T:
+- Never feed when DO is below 3.5 mg/L
+- Never increase feed more than 10% per day
+- Don't feed during emergency aeration
+- Don't use wet or moldy feed (causes disease)
+- Don't skip feed tray checks
+
+=== SIGNS OF GOOD FEEDING ===
+
+- Full stomach/gut visible (dark line along body)
+- Active swimming when feed hits water
+- Feed trays empty within 2 hours
+- Consistent weight gain in sampling (5-7% per week)
+- FCR trending below 1.5
+
+=== SIGNS OF FEEDING PROBLEMS ===
+
+- Shrimp not responding to feed being thrown
+- Feed trays full even after 3+ hours
+- Shrimp with empty stomachs on sampling
+- Poor weight gain despite normal feeding
+Action: Check DO, check health, check water quality before adjusting feed

@@ -1,0 +1,172 @@
+# RoyyaAI — Developer Commands
+# ══════════════════════════════════════════════════════════════════
+
+# ─── DOCKER ────────────────────────────────────────────────────────
+
+# Start databases (PostgreSQL, Redis, Qdrant)
+docker-compose up postgres redis qdrant -d
+
+# Start all services
+docker-compose up -d
+
+# Stop all services
+docker-compose down
+
+# Check service status
+docker-compose ps
+
+# View logs for a service
+docker-compose logs postgres
+docker-compose logs backend
+
+
+# ─── BACKEND ───────────────────────────────────────────────────────
+
+# Navigate to backend
+cd c:\UNKNOWN\RoyyaAI\backend
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Start backend (development with auto-reload)
+uvicorn app.main:app --reload --port 8000
+
+# Start backend (production)
+uvicorn app.main:app --host 0.0.0.0 --port 8000
+
+
+# ─── DATABASE MIGRATIONS (ALEMBIC) ────────────────────────────────
+
+# Apply all pending migrations
+alembic upgrade head
+
+# Rollback last migration
+alembic downgrade -1
+
+# Rollback all migrations
+alembic downgrade base
+
+# Check current migration version
+alembic current
+
+# View migration history
+alembic history
+
+# Create a new migration file (auto-detect changes)
+alembic revision --autogenerate -m "description here"
+
+# Create a new migration file (blank)
+alembic revision -m "description here"
+
+# Stamp a revision as applied (without running it)
+alembic stamp <revision_id>
+
+
+# ─── API DOCUMENTATION ─────────────────────────────────────────────
+
+# Swagger UI (interactive API testing)
+http://localhost:8000/docs
+
+# ReDoc (clean API documentation)
+http://localhost:8000/redoc
+
+# Health check
+http://localhost:8000/health
+
+
+# ─── FRONTEND (Next.js) ────────────────────────────────────────────
+
+# Navigate to frontend
+cd c:\UNKNOWN\RoyyaAI\frontend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+
+
+# ─── MOBILE (Flutter) ──────────────────────────────────────────────
+
+# Navigate to mobile
+cd c:\UNKNOWN\RoyyaAI\mobile
+
+# Get dependencies
+flutter pub get
+
+# Run on connected device
+flutter run
+
+# Build Android APK
+flutter build apk
+
+# Build iOS
+flutter build ios
+
+
+# ─── DATABASE DIRECT ACCESS ────────────────────────────────────────
+
+# Connect to PostgreSQL via Docker
+docker exec -it royyaai_postgres psql -U royyaai -d royyaai_db
+
+# Useful SQL commands inside psql
+# \dt                    — list all tables
+# \d users               — describe users table
+# SELECT * FROM users;   — view all users
+# SELECT * FROM farms;   — view all farms
+# \q                     — quit
+
+
+# ─── REDIS ─────────────────────────────────────────────────────────
+
+# Connect to Redis via Docker
+docker exec -it royyaai_redis redis-cli
+
+# Useful Redis commands
+# KEYS *        — list all keys
+# FLUSHALL      — clear all data
+# PING          — check connection
+
+
+# ─── ENVIRONMENT ───────────────────────────────────────────────────
+
+# Copy example env (first time setup)
+copy .env.example .env        # Windows
+cp .env.example .env          # Mac/Linux
+
+
+# ─── GIT ───────────────────────────────────────────────────────────
+
+# Initialize repo
+git init
+git add .
+git commit -m "initial commit"
+
+# Push to GitHub
+git remote add origin <your-repo-url>
+git push -u origin main
+
+
+# ─── STARTUP SEQUENCE (fresh machine) ──────────────────────────────
+
+# 1. Start databases
+docker-compose up postgres redis qdrant -d
+
+# 2. Install Python dependencies
+cd c:\UNKNOWN\RoyyaAI\backend
+pip install -r requirements.txt
+
+# 3. Run migrations
+alembic upgrade head
+
+# 4. Start backend
+uvicorn app.main:app --reload --port 8000
+
+# 5. Open Swagger UI
+# http://localhost:8000/docs

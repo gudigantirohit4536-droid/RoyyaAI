@@ -1,0 +1,144 @@
+STOCKING AND HARVEST MANAGEMENT FOR VANNAMEI SHRIMP
+Source: FAO Aquaculture, Expert Guidelines
+
+=== STOCKING DENSITY RECOMMENDATIONS ===
+
+By farming system:
+- Extensive: 4-10 PL/m² (40,000-100,000 per acre)
+- Semi-intensive: 10-30 PL/m² (100,000-300,000 per acre)
+- Intensive: 60-150 PL/m² (600,000-1,500,000 per acre)
+- Super-intensive: 300-450 PL/m² (with biofloc and indoor systems)
+
+Standard for Indian inland farms (Andhra Pradesh):
+- 30-60 PL/m² (300,000-600,000 per acre) most common
+- 40-50 PL/m² (400,000-500,000) is balanced for 1-2 acre ponds
+
+Higher stocking requires:
+- More aeration (2-3 HP per 1,000 kg biomass minimum)
+- More frequent water exchange
+- Better feed management
+- Higher biosecurity
+
+=== PL (POST LARVAE) SELECTION CRITERIA ===
+
+PL size at stocking: PL10-PL15 recommended (10-15 days post-metamorphosis)
+- PL10: Body length ~7-8mm
+- PL12: Body length ~8-10mm
+- PL15: Body length ~10-12mm
+
+Quality signs:
+- Active, swimming against current when bucket stirred
+- Uniform size within batch
+- Full gut (dark line visible)
+- No deformities
+- PCR negative for WSSV, AHPND, EHP (demand test report)
+- Stress test: >90% survive fresh water exposure for 5 minutes
+
+Acclimation before stocking:
+- Temperature: Match hatchery bag water to pond water (within 2°C)
+- Salinity: Acclimatize gradually (1-2 ppt per hour)
+- Float bags in pond for 20-30 minutes to equalize temperature
+- Stock in early morning (5-7 AM) to avoid heat stress
+
+=== GROWTH TARGETS ===
+
+Average Body Weight (ABW) by DOC:
+- DOC 15: 0.1-0.2g
+- DOC 30: 1.0-2.0g
+- DOC 45: 5.0-8.0g
+- DOC 60: 10-14g
+- DOC 75: 16-20g
+- DOC 90: 20-25g
+- DOC 100-110: 25-30g (harvest size for count 30-40)
+
+Growth rate: 1.5-2.0g per week is good (intensive farming)
+
+Size grades for market (India):
+- Count 20: ~50g each (premium)
+- Count 30: ~33g each (good price)
+- Count 40: ~25g each (standard)
+- Count 50: ~20g each (common)
+- Count 60+: smaller size, lower price
+
+=== SAMPLING PROTOCOL (EVERY 7-10 DAYS) ===
+
+Equipment needed: Cast net, weighing scale, measuring tape
+
+Steps:
+1. Cast net at 3-5 locations around pond
+2. Collect 50-100 shrimp sample
+3. Weigh total sample on scale
+4. ABW = Total weight ÷ Number of shrimp
+5. Record DOC, ABW, any observations
+
+Survival rate estimation:
+- Biomass sampling method: difficult but more accurate
+- Aerial count: track mortalities collected daily
+- Feed conversion method: estimate based on feed consumed
+
+=== HARVEST TIMING ===
+
+Factors to consider:
+1. Market price: Check daily price before deciding to harvest
+2. Target size: Most profitable is count 30-40 (25-33g)
+3. DOC: Usually harvest at DOC 90-120 depending on growth
+4. Water quality: Deteriorating quality → harvest sooner
+5. Weather: Avoid harvesting during heavy rain or extreme cold
+6. Disease: Emergency harvest if disease detected
+
+Partial harvest (intermediate harvest):
+- At DOC 60-70, harvest 30-40% of biomass
+- Use large-mesh net to remove bigger shrimp
+- Reduces pond density, improves growth of remaining shrimp
+- Good when market price is favorable
+
+Full harvest:
+- Drain pond 70-80% by night
+- Harvest remaining shrimp using nets and pump
+- Use ice (1:1 ratio ice to shrimp) immediately
+- Process within 4 hours of harvest
+
+=== PRODUCTION BENCHMARKS ===
+
+Per acre per crop:
+- Extensive: 150-500 kg
+- Semi-intensive: 500-2,000 kg
+- Intensive (Indian standard): 2,000-5,000 kg
+- High-intensity: 5,000-10,000 kg
+
+Crops per year:
+- Most Indian farmers: 2 crops per year
+- With good management: 3 crops possible (shorter DOC target)
+
+=== PROFITABILITY CALCULATION ===
+
+Income = Harvest weight (kg) × Market price (₹/kg)
+
+Cost = Seed cost + Feed cost + Labour + Electricity + Chemicals + Pond rent
+
+Feed cost is largest expense (typically 50-60% of total cost)
+Seed cost: typically 10-15% of total cost
+
+Break-even analysis example (1 acre, semi-intensive):
+- Seeds: 200,000 PLs × ₹0.80 = ₹16,000
+- Feed: 2,000 kg × ₹65/kg = ₹1,30,000
+- Labour, electricity, chemicals: ₹50,000
+- Total cost: ~₹2,00,000
+- Revenue at count 40, ₹180/kg, 1500 kg harvest: ₹2,70,000
+- Profit: ~₹70,000 per acre per crop
+
+=== CROP PLANNING CALENDAR (ANDHRA PRADESH) ===
+
+Crop 1:
+- Stocking: February-March
+- Harvest: June-July (DOC 90-120)
+- Avoid monsoon stocking (July-August) due to disease risk
+
+Crop 2:
+- Stocking: August-September (after monsoon settles)
+- Harvest: November-December
+- Winter harvest often gets better price (festival season)
+
+Between crops:
+- Pond rest: 15-30 days minimum
+- Pond preparation, drying, liming before next stock

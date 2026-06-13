@@ -1,0 +1,148 @@
+SHRIMP DISEASE MANAGEMENT FOR VANNAMEI (Penaeus vannamei)
+Source: FAO Aquaculture, Expert Guidelines
+
+=== MAJOR VIRAL DISEASES ===
+
+1. WHITE SPOT SYNDROME VIRUS (WSSV) — White Spot Disease
+Symptoms:
+- White spots (0.5-2.0 mm diameter) on shell and body
+- Reduced or stopped feeding (check feed trays)
+- Shrimp clustering at pond edges and surface
+- Reddish discoloration of body
+- Lethargy, slow movement
+- Mass mortality: 100% within 3-10 days if untreated
+Risk factors:
+- Temperature drops below 25°C
+- Wild crustaceans entering pond (crabs, wild shrimp)
+- Stress from low DO, bad water quality
+Prevention:
+- Use SPF (Specific Pathogen Free) seed from certified hatchery
+- Install bird netting
+- Screen all water inlets (60-80 mesh screen)
+- Avoid wild broodstock
+- Maintain temperature above 25°C
+Treatment: NO CURE. Drain and disinfect pond with chlorine (30 ppm).
+
+2. TAURA SYNDROME VIRUS (TSV)
+Symptoms:
+- Soft shell
+- Empty gut (no food in stomach)
+- Reddish tail fans
+- Swimming erratically at surface
+- Mortality 5-95%
+Prevention: Use TSV-resistant (SPR) certified seed.
+
+3. INFECTIOUS HYPODERMAL AND HAEMATOPOIETIC NECROSIS VIRUS (IHHNV)
+Symptoms:
+- Runted/dwarfed shrimp (RDS - Runt Deformity Syndrome)
+- Bent or deformed rostrum (nose)
+- Irregular growth among shrimp in same pond
+- Shrimp don't reach market size
+Prevention: Use IHHNV-free certified seed.
+
+4. ACUTE HEPATOPANCREATIC NECROSIS DISEASE (AHPND/EMS)
+Also called: Early Mortality Syndrome
+Symptoms:
+- Mass mortality in first 30 days (DOC 1-30)
+- Pale or atrophied hepatopancreas (liver)
+- Empty stomach and midgut
+- White or yellow hepatopancreas when pressed
+- Sudden mortality with no prior signs
+Cause: Vibrio parahaemolyticus bacteria with specific toxin plasmid
+Prevention:
+- High biosecurity at stocking
+- Water treatment before stocking
+- Monitor Vibrio levels in water
+- Add probiotics from DOC 1
+
+=== MAJOR BACTERIAL DISEASES ===
+
+5. VIBRIOSIS (Vibrio harveyi, V. alginolyticus, V. parahaemolyticus)
+Symptoms:
+- Red discoloration especially on tail/appendages
+- Luminescent/glowing shrimp at night (V. harveyi)
+- Shell disease — brown/black lesions on shell
+- Slow swimming, lethargy
+- Hepatopancreas discoloration
+Risk factors:
+- Poor water quality, high organic load
+- High stocking density
+- Overfeeding
+Prevention and Control:
+- Probiotics (Bacillus subtilis, Lactobacillus): 1-2 kg/acre every 7-10 days
+- Reduce feeding by 30-50%
+- Water exchange 20-30%
+- Maintain adequate DO
+- Avoid antibiotics (resistance development, export markets reject antibiotic-treated shrimp)
+
+=== PARASITIC AND FUNGAL CONDITIONS ===
+
+6. MICROSPORIDIOSIS (Enterocytozoon hepatopenaei — EHP)
+Symptoms:
+- Slow growth, stunted shrimp
+- White streaks in muscle (cotton-like appearance)
+- High variation in size within same cohort
+- Feed trays look full but shrimp seem small
+Risk: Cannot be seen with naked eye
+Prevention:
+- PCR testing of seed before stocking
+- Disinfect ponds thoroughly between crops
+- Dry pond bottom completely between crops
+
+7. BLACK GILL (Gill Fouling)
+Symptoms:
+- Black or brown discoloration of gills
+- Shrimp near surface gasping
+- Reduced growth
+Causes: Excessive algae, organic matter, fungi on gills
+Control:
+- Improve water circulation
+- Reduce organic load
+- Water exchange
+- Add aquatic probiotics
+
+=== NUTRITIONAL DISORDERS ===
+
+8. BLUE BODY DISEASE
+Symptoms:
+- Shrimp turn blue/grey color
+- Associated with white muscle
+Cause: Nutritional deficiency (phosphorus, essential fatty acids)
+Control: Feed quality improvement, fresh feed
+
+=== POND PREPARATION (DISEASE PREVENTION) ===
+
+After each crop — critical steps:
+1. Drain pond completely
+2. Dry pond bottom for 10-15 days minimum (sunlight kills pathogens)
+3. Remove sludge from bottom (pump or physically remove)
+4. Apply agricultural lime: 200-300 kg/acre (kills bacteria and pathogens)
+5. If WSSV or AHPND outbreak: use bleaching powder 30 ppm + let pond sit 3-4 weeks
+6. Fill water, treat with EDTA and chlorine before stocking
+
+=== SEED QUALITY CHECKLIST (BEFORE BUYING) ===
+
+- Buy only from certified SPF hatchery
+- Check PCR test report: negative for WSSV, TSV, IHHNV, AHPND, EHP
+- Visual check: uniform size, active swimming, no deformities
+- Stress test: 30 shrimp in fresh water 5 minutes — survivors >90% needed
+- Salinity test: acclimatize gradually, sudden change should have <10% mortality
+- Do NOT buy cheapest PLs — seed quality is most important factor
+
+=== DISEASE OUTBREAK RESPONSE PROTOCOL ===
+
+If you see abnormal mortality (>0.5% per day):
+1. Stop feeding immediately
+2. Check all water parameters (DO, pH, temperature, salinity)
+3. Collect samples — bring to lab or contact hatchery
+4. Increase aeration
+5. Do NOT do emergency water exchange (spreads disease to neighboring ponds)
+6. Isolate equipment used in affected pond
+7. Disinfect boots/hands before moving to other ponds
+8. Contact local fisheries department or aquaculture extension officer
+
+Normal mortality rates by DOC:
+- DOC 1-15: up to 5% (post-stocking stress, adaptation)
+- DOC 16-30: less than 0.2% per day
+- DOC 31-60: less than 0.1% per day
+- DOC 61+: less than 0.05% per day

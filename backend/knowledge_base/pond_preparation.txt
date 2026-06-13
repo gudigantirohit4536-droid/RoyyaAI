@@ -1,0 +1,177 @@
+POND PREPARATION AND MANAGEMENT FOR VANNAMEI SHRIMP FARMING
+Source: Expert Aquaculture Guidelines, Indian Aquaculture Practices
+
+=== POND PREPARATION BEFORE STOCKING ===
+
+Step 1: Drain and Dry (10-15 days)
+- Drain pond completely using pumps
+- Expose bottom to sunlight for 10-15 days
+- Sunlight destroys pathogens, parasites, and harmful organisms
+- Till/plow pond bottom to expose all layers to sun
+
+Step 2: Remove Sludge
+- Remove accumulated sludge from bottom manually or using slurry pump
+- Sludge contains harmful bacteria, ammonia-producing organic matter
+- Focus on corners and center where sludge accumulates
+
+Step 3: Lime Application
+- Agricultural lime (CaCO3): 200-300 kg/acre for pH correction
+- Burnt lime (CaO): 100-150 kg/acre for pathogen control (stronger)
+- Dolomite: 200-300 kg/acre for both calcium and magnesium
+- Spread evenly on dry pond bottom
+- If previous disease: bleaching powder (chlorine) 30-50 kg/acre
+
+Step 4: Tilling After Liming
+- Till lime into soil to expose fresh bottom
+- Let rest 3-5 days after lime application
+
+Step 5: Water Filling
+- Fill to 50-60% capacity initially
+- Treat incoming water with chlorine (10-20 ppm) to kill wild organisms
+- After 5-7 days, neutralize chlorine with sodium thiosulfate
+- Then fill to final depth
+
+Step 6: Water Treatment and Preparation
+- Add EDTA (Ethylene Diamine Tetraacetic Acid): 2-3 kg/acre
+  - Chelates heavy metals, makes water safer for PLs
+- Add dolomite/lime to reach alkalinity 100-150 mg/L
+- Fertilize to develop phytoplankton bloom:
+  - Urea: 2-3 kg/acre
+  - Single Super Phosphate (SSP): 1-2 kg/acre
+  - Or use commercial plankton developer
+
+Step 7: Phytoplankton Bloom Development (7-10 days)
+- Wait for green/brown water color to develop
+- Ideal Secchi depth: 30-40 cm
+- DO should be 5+ mg/L by afternoon
+- This natural bloom provides:
+  - Oxygen during day
+  - Natural food for shrimp
+  - Stable pH buffer
+
+Step 8: Stocking Check
+- Measure all water parameters before stocking
+- DO: above 5 mg/L
+- pH: 7.8-8.3
+- Temperature: 25-30°C
+- Salinity: within 2 ppt of hatchery water
+
+=== AERATION SETUP ===
+
+Importance:
+- Most critical factor after seed quality
+- Underpowering aeration is leading cause of DO crash and mortality
+
+Recommended aeration:
+- 1-1.5 HP per 10,000 kg expected biomass (minimum)
+- 2-3 HP per acre for semi-intensive (30-60 PL/m²)
+- 4-6 HP per acre for intensive
+
+Types:
+- Paddlewheel aerators: most common in AP, create circulation and splash aeration
+- Air blowers + diffusers: more energy efficient, subsurface aeration
+- Emergency aerators: keep extra unit ready for power failure
+
+Placement:
+- Create circular water flow in pond
+- No dead zones (corners covered)
+- Center sludge accumulation (for easy removal)
+
+Power backup:
+- Must have generator for power cuts (especially in summer/monsoon)
+- Power cut >2 hours can cause DO crash and mass mortality
+
+=== PROBIOTICS PROGRAM ===
+
+Probiotics are beneficial bacteria that:
+- Break down organic waste (reducing ammonia and nitrite)
+- Compete with harmful Vibrio bacteria
+- Improve gut health of shrimp
+- Stabilize water quality
+
+Recommended schedule:
+- Start: DOC 1 (day of stocking) — establish beneficial bacteria early
+- Frequency: Every 7 days throughout crop
+- Common products: Bacillus subtilis, B. licheniformis, Lactobacillus
+- Application: Mix with water, broadcast in early morning when aerators running
+- Dose: 1-2 kg/acre per application
+
+Commercial probiotic brands (India):
+- BioFish, Sanolife, Pond Plus, Microbe-Lift
+- Many aqua-chemical companies also supply probiotics
+
+=== WATER QUALITY CORRECTION CHEMICALS ===
+
+Alkalinity low:
+- Agricultural lime (CaCO3): 10-20 kg/acre raises alkalinity 10-15 mg/L
+- Dolomite: same dose, also adds magnesium
+
+pH too low:
+- Quick lime (CaO): 5-10 kg/acre (mix with water first, apply in morning)
+- Dolomite: 20-30 kg/acre (slower but safer)
+
+pH too high:
+- Partial water exchange
+- Alum (Aluminum Sulfate): 2-5 kg/acre (use carefully)
+
+Ammonia reduction:
+- Stop or reduce feeding for 24-48 hours
+- Probiotics + organic carbon (molasses)
+- Water exchange 20-30%
+- Zeolite: 20-30 kg/acre (absorbs ammonia temporarily)
+
+Nitrite reduction:
+- Salt (NaCl): 50-100 kg/acre (chloride ion competes with nitrite)
+- Water exchange
+- Probiotics
+
+Turbid/muddy water:
+- Agricultural gypsum (Calcium Sulfate): 20-30 kg/acre
+- Settles suspended clay particles
+- Improves water clarity
+
+=== RECORD KEEPING BEST PRACTICES ===
+
+Daily records to maintain:
+- Date and DOC
+- Morning DO and temperature
+- pH (morning and afternoon)
+- Feed quantity per feeding
+- Feed tray response (hours to empty)
+- Any abnormal observations
+- Chemical/probiotic applications
+
+Weekly records:
+- Sampling data (ABW, count)
+- Secchi depth
+- Salinity and alkalinity
+- Mortality count
+
+This data helps:
+- Calculate FCR (feed conversion ratio)
+- Estimate harvest date and yield
+- Identify problems early
+- Improve future crops
+
+=== BIOSECURITY PROTOCOL ===
+
+Pond entry:
+- Disinfect boots/footwear in lime water before entering pond area
+- Wash hands with soap before handling shrimp or water
+
+Equipment:
+- Never share nets, buckets, aerator parts between ponds
+- Disinfect shared equipment with bleach solution before use
+
+Visitors:
+- Restrict non-essential visitors during crop
+- Vendors/buyers should not enter pond area
+
+Water sources:
+- Screen all water inlets with 60-80 mesh nets
+- Never take water from ponds with disease outbreak nearby
+
+Wild animals:
+- Install bird netting (birds spread disease, especially WSSV)
+- Control crabs and wild fish entering ponds (WSSV carriers)
+- Seal gaps in pond bunds

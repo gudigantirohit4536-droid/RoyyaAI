@@ -38,6 +38,7 @@ class Settings(BaseSettings):
     # Qdrant
     QDRANT_HOST: str = "qdrant"
     QDRANT_PORT: int = 6333
+    QDRANT_API_KEY: str = ""
     QDRANT_COLLECTION: str = "royyaai_knowledge"
 
     # MinIO

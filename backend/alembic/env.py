@@ -4,10 +4,19 @@ from sqlalchemy import pool
 from sqlalchemy.ext.asyncio import async_engine_from_config
 from alembic import context
 
+import os
+
 config = context.config
 
 if config.config_file_name is not None:
     fileConfig(config.config_file_name)
+
+# Override with DATABASE_URL env var if set (production/Railway)
+db_url = os.environ.get("DATABASE_URL")
+if db_url:
+    # Railway provides postgresql:// but asyncpg needs postgresql+asyncpg://
+    db_url = db_url.replace("postgresql://", "postgresql+asyncpg://", 1)
+    config.set_main_option("sqlalchemy.url", db_url)
 
 # Import models so Alembic can detect table changes
 from app.core.database import Base  # noqa: E402

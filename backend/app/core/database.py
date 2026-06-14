@@ -3,7 +3,7 @@ from sqlalchemy.orm import DeclarativeBase
 from app.core.config import settings
 
 
-_db_url = settings.DATABASE_URL.replace("postgresql://", "postgresql+asyncpg://", 1)
+_db_url = settings.DATABASE_URL.strip().replace("postgresql://", "postgresql+asyncpg://", 1)
 
 engine = create_async_engine(
     _db_url,
